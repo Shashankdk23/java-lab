@@ -42,7 +42,7 @@ public static void main(String args[])
 
  b[i]=new Book(n,a,pr,pa);
 }
-
+System.out.println();
 for(int i=0;i<x;i++)
 {
 
