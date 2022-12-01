@@ -34,7 +34,7 @@ public static void main(String args[])
   Book b[]=new Book[x];
  for(int i=0;i<x;i++)
 {
- System.out.println("Enter the details of book"+(i+1)s+":");
+ System.out.println("Enter the details of book"+(i+1)+":");
   String n=sc.next();
   String a=sc.next();
   float pr=sc.nextFloat();
